@@ -39,9 +39,15 @@ I’m passionate about designing the architecture of large applications and writ
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Color-Kat&theme=tokyonight&hide_border=true)
 
 </div>
+
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Color-Kat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_height=195) ![](https://github-readme-stats.vercel.app/api?username=Color-Kat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Color-Kat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_height=195)
+</div>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Color-Kat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
 
