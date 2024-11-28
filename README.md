@@ -17,20 +17,13 @@ At the same time, I’m actively leading Colorbit, my largest personal project, 
 
 I’m passionate about designing the architecture of large applications and writing clean, scalable code. I have a strong background in mathematics, which helps me solve complex problems and optimize solutions.
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="https://github.com/Color-Kat/Color-Kat/blob/master/assets/CV.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/View-CV-70a5fd?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV Link">
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://kwork.ru/user/colorkat" target="_blank">
-        <img src="https://img.shields.io/badge/View-Portfolio-bf91f3?style=for-the-badge&logo=bookstack&logoColor=white" alt="Portfolio Link">
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Color-Kat/Color-Kat/blob/master/assets/CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View-CV-70a5fd?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV Link">
+</a>
+&nbsp
+<a href="https://kwork.ru/user/colorkat" target="_blank">
+  <img src="https://img.shields.io/badge/View-Portfolio-bf91f3?style=for-the-badge&logo=bookstack&logoColor=white" alt="Portfolio Link">
+</a>
 
 ### 🎓My Awesome Stats
 
@@ -54,3 +47,9 @@ I’m passionate about designing the architecture of large applications and writ
 ### 🏆My Github Trophy
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Color-Kat&theme=tokyonight)
+
+<div align="right">
+
+![](https://komarev.com/ghpvc/?username=Color-Kat&color=70a5fd)
+
+</div>
