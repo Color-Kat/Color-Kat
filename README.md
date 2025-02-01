@@ -15,7 +15,7 @@ I’m a Full-stack Web Developer with over 5 years of experience. Currently, I l
 
 At the same time, I’m actively leading Colorbit, my largest personal project, where I not only handle programming but also content creation, SMM, advertising, promotion, monetization, and scripting.
 
-I’m passionate about designing the architecture of large applications and writing clean, scalable code. I have a strong background in mathematics, which helps me solve complex problems and optimize solutions.
+I’m passionate about designing the architecture of large applications and writing clean, scalable code. Currently, I am exploring microservice architecture using NestJS, Docker, and Kubernetes. I have a strong background in mathematics, which helps me solve complex problems and optimize solutions.
 
 <a href="https://github.com/Color-Kat/Color-Kat/blob/master/assets/CV.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View-CV-70a5fd?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV Link">
