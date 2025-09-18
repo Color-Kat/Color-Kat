@@ -18,7 +18,7 @@
 
 ### 🦾About me
 
-I’m a Full-stack Web Developer with over 5 years of experience. Currently, I lead the development of a CRM system for a real estate agency, focusing on building scalable and efficient solutions.
+I’m a Full-stack Web Developer with over 7 years of experience. Currently, I lead the development of a CRM system for a real estate agency, focusing on building scalable and efficient solutions.
 
 At the same time, I’m actively leading Colorbit, my largest personal project, where I not only handle programming but also content creation, SMM, advertising, promotion, monetization, and scripting.
 
