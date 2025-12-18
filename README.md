@@ -18,11 +18,15 @@
 
 ### 🦾About me
 
-I’m a Full-stack Web Developer with over 7 years of experience. Currently, I lead the development of a CRM system for a real estate agency, focusing on building scalable and efficient solutions.
+I’m a fullstack web developer with over 7 years of experience. 
 
-At the same time, I’m actively leading Colorbit, my largest personal project, where I not only handle programming but also content creation, SMM, advertising, promotion, monetization, and scripting.
+Previously, I was a Software Engineer at Yandex, working on the Delivery Frontend Infrastructure for B2B products.
 
-I’m passionate about designing the architecture of large applications and writing clean, scalable code. Currently, I am exploring microservice architecture using NestJS, Docker, and Kubernetes. I have a strong background in mathematics, which helps me solve complex problems and optimize solutions.
+Currently, I am the Founder of **Pomelo — Food Analyzer**, where I act as the main developer and Tech Lead. I design the system architecture, build and maintain the entire infrastructure, and working on the product end-to-end. I lead the development team, conduct code reviews, make key technical decisions, and handle hiring, product development, and marketing — wearing all the hats typical for an startups :)
+
+At the same time, I’m actively take part in hackathons. In 2025 my team and I have won 3 hackathons!
+
+I’m passionate about designing the architecture of large highly loaded applications and writing clean, scalable code. Currently. I have a strong background in mathematics, which helps me solve complex problems and optimize solutions.
 
 <a href="https://github.com/Color-Kat/Color-Kat/blob/master/assets/CV.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View-CV-70a5fd?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV Link">
