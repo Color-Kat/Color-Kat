@@ -28,6 +28,9 @@ At the same time, I’m actively take part in hackathons. In 2025 my team and I 
 
 I’m passionate about designing the architecture of large highly loaded applications and writing clean, scalable code. Currently. I have a strong background in mathematics, which helps me solve complex problems and optimize solutions.
 
+Telegram: `@ColorKat`
+Email: `rogov.vladislavx@gmail.com`
+
 <a href="https://github.com/Color-Kat/Color-Kat/blob/master/assets/CV.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View-CV-70a5fd?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV Link">
 </a>
